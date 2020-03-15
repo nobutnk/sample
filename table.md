@@ -6,7 +6,6 @@ Tableのフォントサイズ変更のサンプル
 }
 </style>
 
-ここで一度 `div` を入れる
 <div class="smalltable"> 
 
 表1
